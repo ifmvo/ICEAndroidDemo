@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/libs/ice-compat-3.7.0-alpha4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34702098aa68026d9b6e343c6e5bdd003874d4fc">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/ice-compat-3.7.0-alpha4_c87f0000037de04a18b992bf3853e530b7c4f113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_8808ff086f77cc1193d011f10950c67141801211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_e89bbb3f59005764df78a087b0ec07b7dac2e1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_67987da3a8364e203aadef8c3f20934f3b0a1a6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_4824cf52fca3aa885bdb45717e3bb4bf1d5e949c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_f0d23a1a072adbf6df815c92221fb5040cfc6685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_a40473e5838eb88efd4d9ae7123977205dc1c51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_ceee15599a0687dac37f9b052e228b268c08e773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_c517039581ec57193158c756f476a8ad91f6f348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_013ad297ab6e1a6a73ad84ff1bc6aa2835eadd87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/ifmvo/src/android/demo/ice_android_demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_28f34a646765e514b439e6b8a44c76914c414a6f.jar" />
+    </item>
+
+</items>
